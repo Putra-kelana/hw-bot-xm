@@ -58,7 +58,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/HaikaltestBot123"
+    "url": "https://git.heroku.com/xm-putra89.git"
   },
   "keywords": [
     "Wasu"
@@ -66,7 +66,7 @@
   "author": "Haikal",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/HaikaltestBot123"
+    "url": "https://git.heroku.com/xm-putra89.git"
   },
-  "homepage": "https://github.com/HaikaltestBot123"
+  "homepage": "https://git.heroku.com/xm-putra89.git"
 }
